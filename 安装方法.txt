@@ -1,0 +1,12 @@
+使用手册： http://www.kancloud.cn/dayrui/finecms3 
+开发手册：http://www1.dayrui.com/dev-doc/
+
+运行环境：
+php5.3 - php7
+mysql5以上
+
+安装方法：
+访问http://网站/install.php
+
+后台账号：admin
+后台密码：admin
